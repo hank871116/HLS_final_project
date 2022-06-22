@@ -8,7 +8,7 @@ Project content overview
 │   └── pynq-z2/                          # prototyping for pynq-z2 FPGA board
 │       ├── execute_cv2_video.ipynb       # jupyter notebook for the host program, used for demo
 │       └── font_256.png                  # font image 
-├── src/
+├── IPs/
 │   ├── org_xf_resize_accel_stream.cpp    # official PYNQ resize example
 │   ├── stream.hpp                        # common header of following code 
 │   ├── stream8rto8.cpp                   # 8-raw to 8 stream conversion 
